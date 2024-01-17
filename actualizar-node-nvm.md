@@ -9,3 +9,5 @@ nvm install --lts --reinstall-packages-from=current
 ```bash
 nvm alias default "lts/*"
 ```
+
+🧮
