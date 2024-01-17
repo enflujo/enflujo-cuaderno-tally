@@ -1,4 +1,6 @@
-## Crear una clave SSH para acceder a servidores sin contraseña
+# Clave SSH para acceder a servidores sin contraseña
+
+## Crear la clave
 
 En el computador local:
 ```bash
@@ -20,5 +22,4 @@ ssh-copy-id -i ~/.ssh/id_rsa usuario@ip-o-dominio
 ```bash
 ssh -i ~/.ssh/id_rsa usuario@ip-o-dominio
 ```
-
 😙
