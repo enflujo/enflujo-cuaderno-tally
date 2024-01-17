@@ -4,7 +4,7 @@ En el computador local:
 ```bash
 ssh-keygen
 ```
-Si se dejan vacíos los campos que pide, se va a guardar en la carpeta por defecto y con el nombre por defecto:
+🗯️ Si se dejan vacíos los campos que pide, se va a guardar en la carpeta por defecto y con el nombre por defecto:
 
 ```bash
 Enter file in which to save the key (/home/ylo/.ssh/id_rsa):
@@ -20,3 +20,5 @@ ssh-copy-id -i ~/.ssh/id_rsa usuario@ip-o-dominio
 ```bash
 ssh -i ~/.ssh/id_rsa usuario@ip-o-dominio
 ```
+
+😙
