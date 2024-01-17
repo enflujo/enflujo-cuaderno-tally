@@ -30,6 +30,7 @@ sudo env PATH=$PATH:/home/$usuario/.nvm/versions/node/v20.10.0/bin /home/$usuari
 ```
 
 ## Comprobar que pm2 funciona correctamente e inicia los procesos
+
 * Reiniciar el servidor:
 ```bash
 sudo reboot
